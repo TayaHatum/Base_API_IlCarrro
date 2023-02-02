@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fff2c30-2385-41c1-b598-9625ec088d5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/AuthRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/AuthResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/BookPerionDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CarDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ErrorDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/GetMyCarsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/okhttp/GetUserCarsTestsOkhttp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/okhttp/LoginTestsOkHttp.java" afterDir="false" />
-    </list>
+    <list default="true" id="1fff2c30-2385-41c1-b598-9625ec088d5d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675270596779</updated>
-      <workItem from="1675270599512" duration="4885000" />
+      <workItem from="1675270599512" duration="5034000" />
     </task>
     <servers />
   </component>
